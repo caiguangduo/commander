@@ -1,0 +1,7 @@
+cd ：进入文件夹
+svn log ：打印提交信息
+svn add tolua.bundle ：添加指定文件（以tolua.bundle）为例
+svn ci -m "(#DMM-9)tolua.bundle" ：提交文件
+svn status ：查看当前状态
+chmod +x onekeybuild_osx.sh ：为onekeybuild_osx.sh文件获取执行权限
+./onekeybuild_osx.sh ：终端执行./onekeybuild_osx.sh文件
