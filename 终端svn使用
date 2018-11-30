@@ -5,3 +5,4 @@ svn ci -m "(#DMM-9)tolua.bundle" ：提交文件
 svn status ：查看当前状态
 chmod +x onekeybuild_osx.sh ：为onekeybuild_osx.sh文件获取执行权限
 ./onekeybuild_osx.sh ：终端执行./onekeybuild_osx.sh文件
+ls -l  ; 用于显示文件夹下所有文件，以及文件大小
